@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 aya 
 waenegg
 da 
 teu kamana mana
+=======
+>>>>>>> parent of 5f41fbf... nyapa uunk
 =======
 >>>>>>> parent of 5f41fbf... nyapa uunk
